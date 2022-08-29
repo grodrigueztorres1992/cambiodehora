@@ -12,7 +12,16 @@
 function menuprincipal () {
 clear
 TIME=1
-echo " "
+echo "
+######
+#     #  #####    ####   #####   ######  #####   ######   ####
+#     #  #    #  #    #  #    #  #       #    #  #       #
+######   #    #  #    #  #    #  #####   #    #  #####    ####
+#        #####   #    #  #####   #       #    #  #            #
+#        #   #   #    #  #   #   #       #    #  #       #    #
+#        #    #   ####   #    #  ######  #####   ######   #### 
+
+by:grodriguez@proredes.net "
 echo $0
 echo " "
 echo "Ingresa que sistema es!
